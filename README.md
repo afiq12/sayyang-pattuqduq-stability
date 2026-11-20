@@ -1,5 +1,7 @@
 # Sayyang pattuqduq: parametric stability of the dancing-horse rider
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24384377.svg)](https://doi.org/10.5281/zenodo.24384377)
+
 Code and derived data for the article
 
 > A. Agung, *From the Kapitza pendulum to Hill's equation: parametric stability under non-sinusoidal drive, and why the Mandar dancing-horse rider stays upright* (submitted to the American Journal of Physics).
