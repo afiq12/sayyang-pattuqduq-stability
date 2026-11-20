@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article and this archive."
+title: "Code and data for: From the Kapitza pendulum to Hill's equation: parametric stability under non-sinusoidal drive, and why the Mandar dancing-horse rider stays upright"
+authors:
+  - family-names: Agung
+    given-names: Afiq
+    affiliation: "Universitas Sulawesi Barat, Majene, West Sulawesi, Indonesia"
+    orcid: "https://orcid.org/0000-0002-8698-9459"
+version: "1.0.0"
+date-released: 2026-11-20
+license: MIT
+repository-code: "https://github.com/afiq12/sayyang-pattuqduq-stability"
+keywords:
+  - Kapitza pendulum
+  - Hill equation
+  - Floquet theory
+  - parametric resonance
+  - sayyang pattuqduq

@@ -1,0 +1,15 @@
+{
+  "upload_type": "software",
+  "title": "Code and data for: From the Kapitza pendulum to Hill's equation: parametric stability under non-sinusoidal drive, and why the Mandar dancing-horse rider stays upright",
+  "creators": [
+    {
+      "name": "Agung, Afiq",
+      "affiliation": "Universitas Sulawesi Barat, Majene, West Sulawesi, Indonesia",
+      "orcid": "0000-0002-8698-9459"
+    }
+  ],
+  "description": "Python scripts and derived data for an article on the parametric stability of the rider in the Mandar sayyang pattuqduq (dancing horse) tradition: Floquet maps for the Mathieu and Hill equations, tongue-threshold and square-wave checks, video measurement of rider head motion with synthetic-motion injection tests, and rebana tempo analysis. The analysed YouTube videos are not redistributed.",
+  "license": "MIT",
+  "keywords": ["Kapitza pendulum", "Hill equation", "Floquet theory", "parametric resonance", "sayyang pattuqduq", "physics education"],
+  "version": "1.0.0"
+}
